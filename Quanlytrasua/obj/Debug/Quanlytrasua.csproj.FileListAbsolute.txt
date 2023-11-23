@@ -1,0 +1,27 @@
+D:\Console Application\Quanlytrasua\Quanlytrasua\bin\Debug\Quanlytrasua.exe.config
+D:\Console Application\Quanlytrasua\Quanlytrasua\bin\Debug\Quanlytrasua.exe
+D:\Console Application\Quanlytrasua\Quanlytrasua\bin\Debug\Quanlytrasua.pdb
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.AssemblyReference.cache
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.Login.resources
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.Properties.Resources.resources
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.GenerateResource.cache
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.CoreCompileInputs.cache
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.exe
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.pdb
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.fTableManager.resources
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.fAccountProfile.resources
+D:\Console Application\Quanlytrasua\Quanlytrasua\obj\Debug\Quanlytrasua.fAdmin.resources
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.AssemblyReference.cache
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.SuggestedBindingRedirects.cache
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.fAccountProfile.resources
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.fAdmin.resources
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.fTableManager.resources
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.Login.resources
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.Properties.Resources.resources
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.GenerateResource.cache
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.csproj.CoreCompileInputs.cache
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.exe
+D:\c#\c-.net-main\Quanlytrasua\obj\Debug\Quanlytrasua.pdb
+D:\c#\c-.net-main\Quanlytrasua\bin\Debug\Quanlytrasua.exe.config
+D:\c#\c-.net-main\Quanlytrasua\bin\Debug\Quanlytrasua.exe
+D:\c#\c-.net-main\Quanlytrasua\bin\Debug\Quanlytrasua.pdb
